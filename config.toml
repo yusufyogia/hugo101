@@ -1,4 +1,4 @@
 baseURL = "https://yusufyogia.netlify.com/"
 languageCode = "en-us"
 title = "Yusuf's Blog"
-theme = "cactus"
+theme = "hugo-cactus-theme"
